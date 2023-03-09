@@ -1,24 +1,18 @@
 import React from 'react';
-
+import '../styles/NavBarStyle.css'
  function Nav() {
 
 
-  return (
-   <nav>
+  return (    
+    <div class="topnav">
+    <a class="active" href="#home">Sean Allen</a>
    
-    <h1 className='d-flex w-5 text-warning bg-primary'>
-     
-        <ul className='d-flex flex-row justify-content-center align-items-center'>
-          <li><a href='/About'>About</a></li>
-          <li> Contact</li>
-          <li> Project</li>
-          <li> Resume</li>
-        </ul>
-      
-    </h1>
-
-  
-    </nav>
+    <div class="topnav-right">
+      <a href="#project">Projects</a>
+      <a href="#about">Contact</a>
+      <a href="#search">Resume</a>
+    </div>
+  </div>
   );
 }
 
