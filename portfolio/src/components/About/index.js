@@ -1,5 +1,5 @@
 import React from 'react';
-import me from '/Users/mirrorzzzz/Desktop/bootcamp-UTA/Challenges/Portfolio---REACT/portfolio/src/components/About/iconMe.ico'
+import me from '/Users/mirrorzzzz/Desktop/bootcamp-UTA/Challenges/Portfolio---REACT/portfolio/src/components/About/iconME.ico'
 
 
 function About() {
@@ -19,12 +19,6 @@ function About() {
 
         <p>My goal as a web designer and developer is to create beautiful and functional websites that meet the needs of clients and users alike. I believe that the best designs are those that are not only aesthetically pleasing, but also intuitive and easy to use.</p>
         <p>If you're seeking a dedicated, detail-oriented web designer and developer who is passionate about creating great websites, I would love to connect with you. Together, we can build something that will make a positive impact on the web.</p>
-
-
-
-
-
-
         
       </div>
     </section>
