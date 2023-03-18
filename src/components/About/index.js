@@ -1,5 +1,5 @@
 import React from 'react';
-import me from '/Users/mirrorzzzz/Desktop/bootcamp-UTA/Challenges/Portfolio---REACT/portfolio/src/components/About/iconME.ico'
+import me from '../About/iconME.ico'
 
 
 function About() {
