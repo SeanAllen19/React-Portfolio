@@ -15,9 +15,9 @@
   
   ## Description
 
-  My task is to create a portfolio using your new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies. 
+  My task is to create a portfolio using my new React skills, which will help set me apart from other developers whose portfolios don’t use the latest technologies. 
 
-  Because this application doesn’t include a back end or connect to an API, the contact form doesn't need to save this information right now. You'll add back-end functionality in the next few weeks. In the meantime, consider including your email address and phone number on the Contact page.
+  Because this application doesn’t include a back end or connect to an API, the contact form doesn't need to save this information right now. I'll add back-end functionality in the next few weeks. 
 
   ---
 
