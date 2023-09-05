@@ -1,6 +1,5 @@
 import React from 'react';
-import me from '../About/iconME.ico'
-
+import me from '../About/favicon (1).ico'
 
 function About() {
 
@@ -9,7 +8,7 @@ function About() {
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-        <img  style={{ width: 'auto', height: 'auto' }} src={me} alt="Picture of ME"/> 
+        <img  style={{ width: 'auto', height: 'auto' }} src={me} alt="Picture of Sean"/> 
         </div>
         <p>
         As a former Cook and Customer Service worker and current Project Manager, I am excited to pursue an entry-level position in Web Design and Development. My experience developing website designs from scratch has instilled in me a passion for Responsive and Interactive design.
@@ -20,6 +19,7 @@ function About() {
         <p>My goal as a web designer and developer is to create beautiful and functional websites that meet the needs of clients and users alike. I believe that the best designs are those that are not only aesthetically pleasing, but also intuitive and easy to use.</p>
         <p>If you're seeking a dedicated, detail-oriented web designer and developer who is passionate about creating great websites, I would love to connect with you. Together, we can build something that will make a positive impact on the web.</p>
         
+        <p>If you are looking to get in contact please feel free to email me directly at Sallen19.dev@gmail.com</p>
       </div>
     </section>
   );

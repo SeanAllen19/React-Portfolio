@@ -8,19 +8,19 @@ function Portfolio() {
     {
       name: 'word-guessing-game',
       description: 'Interactive Front-End Application',
-      link: "https://github.com/SeanAllen19/Word-Guessing-Game",
+      link: "https://seanallen19.github.io/Word-Guessing-Game/",
       repo: "https://github.com/SeanAllen19/Word-Guessing-Game"
     },
     {
       name: 'git-ideas',
       description: 'MERN Stack',
-      link: "https://github.com/SeanAllen19/GIT-IDEAS",
+      link: "https://git-ideas.herokuapp.com/",
       repo: "https://github.com/SeanAllen19/GIT-IDEAS"
     },
     {
       name: 'scororama',
       description: 'MERN Stack',
-      link: "https://github.com/SeanAllen19/Scororama",
+      link: "https://scororama.herokuapp.com/",
       repo: "https://github.com/SeanAllen19/Scororama"
     },
     

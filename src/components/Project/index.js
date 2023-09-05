@@ -1,6 +1,5 @@
 import React from 'react';
-import { removeHyphensAndCapitalize } from '../../utils/helpers';
-
+import { removeHyphensAndCapitalize } from '../../components/utils/helpers'
 function Project({ project }) {
 
   const { name, repo, link, description } = project;
